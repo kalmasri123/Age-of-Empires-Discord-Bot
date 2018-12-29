@@ -1,1 +1,1 @@
-worker:node age.js
+worker:npm start
